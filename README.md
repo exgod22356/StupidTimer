@@ -7,7 +7,7 @@ python 3.7.1 具体参考pygame兼容的python版本
 pygame 1.9.6 
 arial字体，windows系统下默认携带  
 ## 安装方法  
-可直接使用exe，参数为默认参数  
+可直接使用/dist/StupidTimer.exe，参数为默认参数  
 终端下进入该文件夹执行安装   
 ```
 pip install -r requirements.txt    
@@ -28,6 +28,9 @@ python StupidTimer.py 1.1 //无法使用
 ## 现存问题  
 在拖动窗口时显示时间会暂停。     
 由于需要渲染时间，与实际时间会略有误差。  
+
+## TODO  
+无。没有更新计划。
 
 ## 开源协议  
 本项目遵循mit开源协议
